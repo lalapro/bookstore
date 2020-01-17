@@ -1,0 +1,2 @@
+export const SET_BOOKSTATE = 'SET_BOOKSTATE';
+export const CLEAN_BOOKSTATE = 'CLEAN_BOOKSTATE';
