@@ -35,3 +35,6 @@ Android version - 3.5.0
 * Account details are hardcoded
 * User cannot log out
 * Adding book to cart does nothing
+
+## Video sample of ios and android
+https://imgur.com/a/ql8b94o
